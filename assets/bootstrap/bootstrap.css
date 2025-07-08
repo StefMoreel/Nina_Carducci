@@ -3964,6 +3964,10 @@ textarea.form-control-lg {
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
+span.nav-link.active-tag {
+  background-color: #494418;
+  color: #fff;
+}
 .nav-tabs .dropdown-menu {
   margin-top: -1px;
   border-top-left-radius: 0;
